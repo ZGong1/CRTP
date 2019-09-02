@@ -1,0 +1,22 @@
+name: BRTP
+
+author: ZGong
+
+main: com.javaminecraft.BRTP
+
+commands:
+    rtp:
+        SA:
+            description: randomly teleports you somewhere.
+        US:
+            description: randomly teleports you somewhere.
+        EUR:
+            description: randomly teleports you somewhere.
+        AFR:
+            description: randomly teleports you somewhere.
+        ASIA:
+            description: randomly teleports you somewhere.
+    colortest:
+        description: tests if the colors work
+        
+version: 1.2
